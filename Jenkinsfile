@@ -48,7 +48,7 @@ pipeline {
 
                 stage('Slave 4') {
                     agent {
-                        label "Agenet2_4"
+                        label "Agente2_4"
                     }
                     steps {
                         git url: 'https://github.com/Paloma1825/jenkis.git'
