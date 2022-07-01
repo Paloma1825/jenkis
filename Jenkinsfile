@@ -15,8 +15,8 @@ pipeline {
                         git url: 'https://github.com/Paloma1825/jenkis.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run cypress run --record --key 7f3ad08e-6c6e-442f-bcbd-cb3269ac5a9c  --parallel'
-                    
+                        bat 'npx cypress run cypress run --record --key 6d8c990d-7f59-49ad-b4c3-f1afbead44c3  --parallel'
+                        
                     }
                 }
 
@@ -28,7 +28,7 @@ pipeline {
                         git url: 'https://github.com/Paloma1825/jenkis.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run cypress run --record --key 7f3ad08e-6c6e-442f-bcbd-cb3269ac5a9c  --parallel'
+                        bat 'npx cypress run cypress run --record --key 6d8c990d-7f59-49ad-b4c3-f1afbead44c3  --parallel'
                     
                     }
                 }
@@ -41,7 +41,7 @@ pipeline {
                         git url: 'https://github.com/Paloma1825/jenkis.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run cypress run --record --key 7f3ad08e-6c6e-442f-bcbd-cb3269ac5a9c  --parallel'
+                        bat 'npx cypress run cypress run --record --key 6d8c990d-7f59-49ad-b4c3-f1afbead44c3  --parallel'
                     
                     }
                 }
@@ -54,7 +54,7 @@ pipeline {
                         git url: 'https://github.com/Paloma1825/jenkis.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run cypress run --record --key 7f3ad08e-6c6e-442f-bcbd-cb3269ac5a9c  --parallel'
+                        bat 'npx cypress run cypress run --record --key 6d8c990d-7f59-49ad-b4c3-f1afbead44c3  --parallel'
                     
                     }
                 }
